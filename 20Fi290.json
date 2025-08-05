@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://example.org/iiif/20Fi286",
+  "id": "https://alvaroruc.github.io/iiif/20Fi286",
   "type": "Manifest",
   "label": {
     "fr": ["Place de la Motte en 1880"]
@@ -8,7 +8,7 @@
   "navDate": "1880-01-01T00:00:00.000Z",
   "items": [
     {
-      "id": "https://example.org/iiif/20Fi286/canvas/1",
+      "id": "https://alvaroruc.github.io/iiif/20Fi286/canvas/1",
       "type": "Canvas",
       "height": 631,
       "width": 930,
@@ -17,14 +17,14 @@
       },
       "items": [
         {
-          "id": "https://example.org/iiif/20Fi286/canvas/1/annotation-page/d1m4dwp2w9m-m8smzgxc",
+          "id": "https://alvaroruc.github.io/iiif/20Fi286/canvas/1/annotation-page/d1m4dwp2w9m-m8smzgxc",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://example.org/iiif/20Fi286/annotation/svz3akxjby-m8smzg0m",
+              "id": "https://alvaroruc.github.io/iiif/20Fi286/annotation/svz3akxjby-m8smzg0m",
               "type": "Annotation",
               "motivation": "painting",
-              "target": "https://example.org/iiif/20Fi286/canvas/1",
+              "target": "https://alvaroruc.github.io/iiif/20Fi286/canvas/1",
               "body": {
                 "id": "https://alvaroruc.github.io/AHL/donnees/photos/20Fi290.jpg",
                 "type": "Image",
