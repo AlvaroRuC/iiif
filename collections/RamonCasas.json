@@ -14,7 +14,7 @@
       "type": "Manifest",
       "homepage": [
         {
-          "id": "https://dc.library.northwestern.edu/items/e40479c4-06cb-48be-9d6b-adf47f238852",
+          "id": "https://alvaroruc.github.io/iiif/20Fi286.json",
           "type": "Text",
           "format": "text/html",
           "label": { "none": ["Ramón Casas. Sketchbook IV"] }
@@ -24,7 +24,7 @@
       "summary": { "none": ["Image"] },
       "thumbnail": [
         {
-          "id": "https://api.dc.library.northwestern.edu/api/v2/works/e40479c4-06cb-48be-9d6b-adf47f238852/thumbnail",
+          "id": "https://alvaroruc.github.io/iiif/20Fi290.json",
           "format": "image/jpeg",
           "type": "Image",
           "width": 400,
