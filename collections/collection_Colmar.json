@@ -1,7 +1,7 @@
 {
   "@context": ["http://iiif.io/api/presentation/3/context.json"],
   "type": "Collection",
-  "id": "https://iiif.io/api/cookbook/recipe/0068-newspaper/newspaper_title-collection.json",
+  "id": "https://alvaroruc.github.io/iiif/collections/collection_Colmar.json",
   "label": {
     "fr": ["Phototheque Paul Colmar"]
   },
@@ -64,7 +64,7 @@
   ],
   "items": [
     {
-      "id": "http://127.0.0.1:5500/20Fi286.json",
+      "id": "https://alvaroruc.github.io/iiif/20Fi286.json",
       "type": "Manifest",
       "label": {
         "fr": ["20Fi286"]
@@ -72,7 +72,7 @@
       "navDate": "1925-02-16T00:00:00Z"
     },
     {
-      "id": "http://127.0.0.1:5500/20Fi290.json",
+      "id": "https://alvaroruc.github.io/iiif/20Fi290.json",
       "type": "Manifest",
       "label": {
         "fr": ["20Fi290"]
