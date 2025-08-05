@@ -2,7 +2,7 @@
   "@context": ["http://iiif.io/api/presentation/3/context.json"],
   "id": "https://api.dc.library.northwestern.edu/api/v2/collections/ba35820a-525a-4cfa-8f23-4891c9f798c4?as=iiif",
   "type": "Collection",
-  "label": { "none": ["Ramón Casas Sketchbooks"] },
+  "label": { "none": ["Test de collection"] },
   "summary": {
     "none": [
       "Gift of the Deering Family. These sketches by Catalan artist Ramón Casas (1866-1932) document the work of an under-represented artist who was influential in modernist art circles in Barcelona and Paris along with his peers John Singer Sargent, Henri de Toulouse-Lautrec, and the young Pablo Picasso. Three bound hardcover volumes of sketches came to the Northwestern University Libraries in 1998 as part of a donation of books that had belonged to NU benefactor Charles Deering (1852-1927). Deering and Casas met in 1904 and established a lifelong friendship. At some point before the donation, a few hundred loose Casas drawings, postcards, and illustrated letters dating from 1891 to 1912 were bound into their current form. There were at least five volumes in the set; two remain in private collections."
@@ -24,7 +24,7 @@
       "summary": { "none": ["Image"] },
       "thumbnail": [
         {
-          "id": "https://alvaroruc.github.io/iiif/20Fi290.json",
+          "id": "https://alvaroruc.github.io/AHL/donnees/photos/20Fi286.jpg",
           "format": "image/jpeg",
           "type": "Image",
           "width": 400,
@@ -33,21 +33,21 @@
       ]
     },
     {
-      "id": "https://api.dc.library.northwestern.edu/api/v2/works/f4720687-61b6-4dcd-aed0-b70eff985583?as=iiif",
+      "id": "https://alvaroruc.github.io/iiif/20Fi290.json",
       "type": "Manifest",
       "homepage": [
         {
-          "id": "https://alvaroruc.github.io/iiif/20Fi286.json",
+          "id": "https://alvaroruc.github.io/iiif/20Fi290.json",
           "type": "Text",
           "format": "text/html",
-          "label": { "none": ["Ejemplo homepage: 20Fi286"] }
+          "label": { "none": ["Ejemplo homepage: 20Fi290"] }
         }
       ],
       "label": { "none": ["Ramón Casas. Sketchbook III"] },
       "summary": { "none": ["Image"] },
       "thumbnail": [
         {
-          "id": "https://api.dc.library.northwestern.edu/api/v2/works/f4720687-61b6-4dcd-aed0-b70eff985583/thumbnail",
+          "id": "https://alvaroruc.github.io/AHL/donnees/photos/20Fi290.jpg",
           "format": "image/jpeg",
           "type": "Image",
           "width": 400,
