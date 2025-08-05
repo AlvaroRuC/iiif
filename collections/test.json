@@ -10,17 +10,17 @@
   },
   "items": [
     {
-      "id": "https://api.dc.library.northwestern.edu/api/v2/works/e40479c4-06cb-48be-9d6b-adf47f238852?as=iiif",
+      "id": "https://alvaroruc.github.io/iiif/20Fi286.json",
       "type": "Manifest",
       "homepage": [
         {
-          "id": "https://alvaroruc.github.io/iiif/20Fi286.json",
+          "id": "https://dc.library.northwestern.edu/items/e40479c4-06cb-48be-9d6b-adf47f238852",
           "type": "Text",
           "format": "text/html",
           "label": { "none": ["Ramón Casas. Sketchbook IV"] }
         }
       ],
-      "label": { "none": ["Ramón Casas. Sketchbook IV"] },
+      "label": { "none": ["Ejemplo item: 20Fi286"] },
       "summary": { "none": ["Image"] },
       "thumbnail": [
         {
@@ -37,10 +37,10 @@
       "type": "Manifest",
       "homepage": [
         {
-          "id": "https://dc.library.northwestern.edu/items/f4720687-61b6-4dcd-aed0-b70eff985583",
+          "id": "https://alvaroruc.github.io/iiif/20Fi286.json",
           "type": "Text",
           "format": "text/html",
-          "label": { "none": ["Ramón Casas. Sketchbook III"] }
+          "label": { "none": ["Ejemplo homepage: 20Fi286"] }
         }
       ],
       "label": { "none": ["Ramón Casas. Sketchbook III"] },
