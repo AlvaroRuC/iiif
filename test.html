@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <script src="https://unpkg.com/mirador@latest/dist/mirador.min.js"></script>
+  </head>
+  <body>
+    <div id="my-mirador" />
+  </body>
+
+  <script type="text/javascript">
+    var mirador = Mirador.viewer({
+      id: "my-mirador",
+      manifests: {
+        "http://127.0.0.1:5500/collections/collection_Colmar.json": {
+          provider: "Harvard University",
+        },
+      },
+      windows: [
+        {
+          loadedManifest: "http://127.0.0.1:5500/collections/collection_Colmar.json",
+          canvasIndex: 2,
+          thumbnailNavigationPosition: "far-bottom",
+        },
+      ],
+    });
+  </script>
+</html>
